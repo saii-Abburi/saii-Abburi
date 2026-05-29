@@ -26,4 +26,3 @@ If you want to connect or collaborate, feel free to reach out here:
 - Demon Slayer is one of my favourite anime
 - I enjoy solving DSA problems and building UI
 - Hobbies: anime, gym, building things
-```
