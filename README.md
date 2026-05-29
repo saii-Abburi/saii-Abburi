@@ -23,25 +23,25 @@
 ## Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind" />
+  <img width="84px" height ="84px" src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind" />
 </p>
 
 ## Backend & Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql" />
+  <img width="84px" height ="84px" src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql" />
 </p>
 
 ## Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c" />
+  <img width="84px" height ="84px" src="https://skillicons.dev/icons?i=python,java,c" />
 </p>
 
 ## Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+  <img width="84px" height ="84px" src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
 </p>
 
 ---
@@ -54,13 +54,13 @@ I built a lot of projects, but my best one is 🏥 [Hospital Workflow Automation
 # 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saii-Abburi&show_icons=true&theme=tokyonight" height="180em"/>
+  <img width="84px" height ="84px" src="https://github-readme-stats.vercel.app/api?username=saii-Abburi&show_icons=true&theme=tokyonight" height="180em"/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saii-Abburi&theme=tokyonight" height="180em"/>
+  <img width="84px" height ="84px" src="https://github-readme-streak-stats.herokuapp.com/?user=saii-Abburi&theme=tokyonight" height="180em"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saii-Abburi&layout=compact&theme=tokyonight"/>
+  <img width="84px" height ="84px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saii-Abburi&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -79,15 +79,15 @@ I built a lot of projects, but my best one is 🏥 [Hospital Workflow Automation
 
 <p align="left">
 <a href="https://github.com/saii-Abburi" target="blank">
-  <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+  <img width="84px" height ="84px" align="center" src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
 
 <a href="https://www.linkedin.com/in/abburi-sai-praveen-4b9975297/" target="blank">
-  <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  <img width="84px" height ="84px" align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
 <a href="mailto:saipraveenabburi7@gmail.com">
-  <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
+  <img width="84px" height ="84px" align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
 </p>
 
